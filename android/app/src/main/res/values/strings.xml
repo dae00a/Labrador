@@ -1,0 +1,13 @@
+<resources>
+    <string name="camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="app_name">Labrador</string>
+    <string name="labrador">LABRADOR</string>
+    <string name="light">플래시</string>
+    <string name="manual">도움말</string>
+    <string name="manual_content">
+        <b>○ 화면 우측 하단을 클릭하여 현재 제공되는 도움말을 확인할 수 있습니다.\n</b>
+        <b>○ 화면 좌측 모서리를 스크롤하여 진동을 조절할 수 있습니다.\n</b>
+        <b>○ 화면을 왼쪽 방향으로 스크롤하여 현재 위치한 지역의 교통약자 콜택시 안내센터로 전화가 연결됩니다.\n</b>
+        <b>○ 화면의 아무 곳이나 클릭하여 도움말에서 나갈 수 있습니다.\n</b>
+    </string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="labrador">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#F8DCB2</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">4</item>
+        <item name="android:shadowRadius">4</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+tree_trunk
+car
+potted_plant
+traffic_light
+pole
+bollard
+person
