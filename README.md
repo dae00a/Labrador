@@ -56,3 +56,17 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 <br/>
+
+## Citation
+<pre>
+<code>
+@article {https://doi.org/10.48550/arxiv.1911.09070,
+  doi = {10.48550/ARXIV.1911.09070},
+  author = {Tan, Mingxing and Pang, Ruoming and Le, Quoc V.},
+  title = {EfficientDet: Scalable and Efficient Object Detection},
+  publisher = {arXiv},
+  year = {2019},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+</code>
+</pre>
