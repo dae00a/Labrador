@@ -16,7 +16,7 @@ Custom model classifies 7 classes(car, person, bollard, pole, potted plant, tree
 However, detectection and representation are limited at most 4 objects at application source code cause of reducing inference time. 
 This application notifies the user of obstacles in the direction of travel through vibration and sound when the obstacles located on specfic distance.
 
-![example]()
+![example](Labrador_result.jpg)
 
 This application also provides a function that calls Transportation Vulnerable Support Center for using a vehicle.
 
